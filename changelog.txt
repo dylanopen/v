@@ -9,3 +9,6 @@
 
 1.1:
   - Fixed broken 'installation' link
+
+1.2:
+  - Created console class
