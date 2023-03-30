@@ -22,7 +22,7 @@ py -m pip install v
 pip install v
 ```
 
-[full guide](https://github.com/dylanopen/v/blob/main/docs/installation.md)
+[full guide](https://github.com/dylanopen/v/blob/main/installation.md)
 
 ## Docs
 
