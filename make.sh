@@ -8,7 +8,7 @@ echo -e "\e[0m\e[34m\uE0B2\e[0m\e[44m Building Python package \e[0m\e[34m\uE0B0\
 poetry build
 echo -e "\e[0m\e[34m\uE0B2\e[0m\e[44m Publishing to PyPI \e[0m\e[34m\uE0B0\e[0m"
 poetry publish
-echo -e "\e[0m\e[34m\uE0B2\e[0m\e[44m Creating git \e[0m\e[34m\uE0B0\e[0m"
-git commit -m $1
-git branch -M main
-git push -u origin main
+#echo -e "\e[0m\e[34m\uE0B2\e[0m\e[44m Creating git \e[0m\e[34m\uE0B0\e[0m"
+#git commit -m $1
+#git branch -M main
+#git push -u origin main
