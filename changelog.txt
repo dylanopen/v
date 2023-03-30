@@ -1,0 +1,6 @@
+0.0:
+  - Created v
+  - Created changelog
+	- Created README
+	- Published to PyPI
+	- Created git repo
